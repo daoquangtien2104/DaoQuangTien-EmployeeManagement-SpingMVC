@@ -1,0 +1,60 @@
+.record-good{
+	color: blue;
+	font-weight: bold;
+	
+}
+.record-bad{
+	color: red;
+	font-weight: bold;
+}
+
+#tblStaff_filter label {
+	display: block;
+}
+#tblUser_filter label {
+	display: block;
+}
+
+.dataTables_empty{
+	font-family: cursive;
+}
+
+.dataTables_info{
+	font-family: auto;
+	font-size: 20px
+}
+
+#tblDepart_filter label {
+	display: block;
+}
+.buton{
+	background-color: yellow;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-group label {
+	font-weight: bold;
+}
+
+.form-group label[class="error"] {
+	font-weight: 400 !important;
+	font-size: 12px;
+	color: red;
+}
+
+.swal2-container {
+  z-index: 100000 !important;
+}
+.swall-overlay {
+    z-index: 100005;
+}
+.swal-modal {
+    z-index: 99999;
+}
+
+.text-bold {
+	font-weight: bold;
+}
